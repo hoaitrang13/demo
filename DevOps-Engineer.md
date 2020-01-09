@@ -1,4 +1,5 @@
 ##DevOps Engineer
+
 Teko is looking for a highly motivated ###DevOps ###Engineer. As a member of the team, you will be exposed to all production services and infrastructure. This allows you to be a major multiplier on Teko’s product velocity. Our goal is to create a culture of service ownership, deploy immutably, and remove manual judgments, while automating the entire process to increase safety and confidence.
 
 ###Your responsibilities:
