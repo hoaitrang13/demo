@@ -23,6 +23,7 @@ Teko is looking for a highly motivated Senior/Software engineer to join our grow
 - Full benefit with social insurance. Annual health check and Generali insurance under the company’s own policy;
 - Employee Relationship: company trip, monthly team building;
 - Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
+
 ### Submit your personal document
 Follow these steps to have a highly appreciated document
 Update your latest CV including email, phone number and your desired salary 
