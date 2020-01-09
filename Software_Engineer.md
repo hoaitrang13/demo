@@ -26,6 +26,8 @@ Teko is looking for a highly motivated Senior/Software engineer to join our grow
 
 ### Submit your personal document
 Follow these steps to have a highly appreciated document
-Update your latest CV including email, phone number and your desired salary 
+Update your latest CV including email, Link Github repo for hiring test, phone number and your desired salary 
+
 Write an email with the subject line: "Apply for the position: Senior/Frontend Developer" 
+
 Attach your latest CV to the email and send to [tuyendung@teko.vn](tuyendung@teko.vn)
