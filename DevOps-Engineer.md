@@ -28,5 +28,4 @@ Databases: MongoDB, Redis, MySQL.
 - Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document
-> Update your latest CV including email, phone number and your submit. Write an email with the subject line: "Your name apply for the position: DevOps Engineer"
-> Attach your latest CV to the email and send to [tuyendung@teko.vn](tuyendung@teko.vn)
+>  Write an email with the subject line: "Your name apply for the position: DevOps Engineer" & attach your latest CV, phone number and your submit and then, send it to [tuyendung@teko.vn](tuyendung@teko.vn
