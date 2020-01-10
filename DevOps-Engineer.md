@@ -27,5 +27,6 @@ Databases: MongoDB, Redis, MySQL.
 - Employee Relationship: company trip, monthly team building;
 - Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
 ### Submit your personal document
-> Follow these steps to have a highly appreciated document
+> Follow these steps to have a highly appreciated document.
+
 > Write an email with the subject line: "Your name apply for the position: DevOps Engineer" & attach your latest CV, phone number and your submit and then, send it to [tuyendung@teko.vn](tuyendung@teko.vn)
