@@ -29,4 +29,4 @@ Databases: MongoDB, Redis, MySQL.
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
 
-> Write an email with the subject line: "Your name apply for the position: DevOps Engineer" & attach your latest CV, phone number and your submit and then, send it to [tuyendung@teko.vn](tuyendung@teko.vn)
+> Write an email with the subject line: "Your name apply for the position: DevOps Engineer" & attach your latest CV, phone number and your submit. And then, send it to [tuyendung@teko.vn](tuyendung@teko.vn)
